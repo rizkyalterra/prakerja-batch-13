@@ -4,3 +4,4 @@ Ini berasal dari conflict remote
 Ini ada perubahan A
 Ini ada perubahan B
 Ini branch develop
+Ini branch feature A
