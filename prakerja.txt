@@ -1,3 +1,6 @@
 Ini berasal dari remote add
 Ini berasal dari clone add
 Ini berasal dari conflict remote
+Ini ada perubahan A
+Ini ada perubahan B
+Ini branch develop
