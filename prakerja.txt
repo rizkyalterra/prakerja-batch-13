@@ -1,2 +1,2 @@
 Ini berasal dari remote add
-
+Ini berasal dari clone add
